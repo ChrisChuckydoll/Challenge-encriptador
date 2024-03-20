@@ -1,1 +1,1 @@
-<h1>Proyecto encirptador y desencripador</h1>
+<h1>Proyecto encriptador y desencripador</h1>
